@@ -1,5 +1,5 @@
 
-### *Hi there,  👋 I'm Hiruni. A first-year undergraduate in [Java Institute For Advanced Technology](https://www.javainstitute.edu.lk/) in Sri Lanka.
+### *Hi there,  👋 I'm Hiruni. A first-year undergraduate in [Java Institute For Advanced Technology](https://www.javainstitute.edu.lk/) in Sri Lanka.*
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning *Web Programming* and *Databases*.
