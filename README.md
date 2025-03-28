@@ -30,7 +30,7 @@ I'm a final-year undergraduate student at Java Institute for Advanced Technology
 I'm continuously expanding my skill set and exploring new technologies in software development.
 
 ### 📫 Connect with Me
-[![LinkedIn]([https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](Your-LinkedIn-Profile-URL](https://www.linkedin.com/in/hiruni-kaushalya-67951a262/))
+[![LinkedIn](https://www.linkedin.com/in/hiruni-kaushalya-67951a262/))
 [![Email](kaushalyahiruni915@gmail.com)
 
 ---
