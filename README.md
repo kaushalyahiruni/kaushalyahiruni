@@ -35,6 +35,7 @@ I'm continuously expanding my skill set, experimenting with creative projects, a
 ### 📫 Connect with Me
 - LinkedIn: [https://www.linkedin.com/in/hiruni-kaushalya-67951a262/](https://www.linkedin.com/in/hiruni-kaushalya-67951a262/)
 - Email: **kaushalyahiruni915@gmail.com**
+- Portfolio: [https://kaushalyahiruni.github.io/Portfolio/](https://kaushalyahiruni.github.io/Portfolio/)
 
 ---
 
