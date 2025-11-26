@@ -5,7 +5,7 @@ I'm a final-year undergraduate student at **Java Institute for Advanced Technolo
 I love transforming ideas into functional, visually appealing interfaces while continuously learning new tools and concepts that help me grow as a developer and designer.  
 
 ### 🎓 Current Focus
-- Learning Git  
+- Learning Git
 - Exploring NoSQL Databases  
 - Mobile App Development with Android Studio  
 - Learning UI/UX Designing (including wireframing, prototyping, and user experience research)
@@ -20,7 +20,7 @@ I love transforming ideas into functional, visually appealing interfaces while c
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
 #### Tools
-![GitHub](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hirunikaushalya)
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
 ![MySQL Workbench](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
